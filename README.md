@@ -1,6 +1,6 @@
 # test-rep
 Test several git features
 
-Test git config --global user.name "User Name"
+Test `git config user.name "User Name"`
 
 Parallel work test

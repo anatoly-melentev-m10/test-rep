@@ -1,6 +1,6 @@
 # test-rep
 Test several git features
 
-Test `git config user.name "User Name"`
+To set user name in git: `git config user.name "User Name"`
 
 Parallel work test

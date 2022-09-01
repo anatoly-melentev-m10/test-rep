@@ -1,4 +1,6 @@
 # test-rep
-Test several git features
+Git education
 
-Test `git config user.name "User Name"`
+To change your user name run:
+
+`git config user.name "User Name"`

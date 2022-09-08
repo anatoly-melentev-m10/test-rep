@@ -1,6 +1,6 @@
 # test-rep
 Git education
 
-Change your username with terminal command:
+Change your username with terminal:
 
 `git config user.name "User Name"`

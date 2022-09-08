@@ -5,6 +5,9 @@ Change your username with terminal:
 
 `git config user.name "User Name"`
 
+Testing disappearing text
+
+Last changes in the branch
 Master change 1
 
 Master change 2

@@ -8,6 +8,9 @@ Change your username with terminal:
 Testing disappearing text
 
 Last changes in the branch
+
+Added changes after last ones
+
 Master change 1
 
 Master change 2
